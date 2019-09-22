@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174392182161",
+    "firebase_url": "https://fir-ml-kit-e0d73.firebaseio.com",
+    "project_id": "fir-ml-kit-e0d73",
+    "storage_bucket": "fir-ml-kit-e0d73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174392182161:android:8ed243d52275fa23260630",
+        "android_client_info": {
+          "package_name": "com.enggsdayproject.ml_kit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174392182161-k9e9dttfeg7g5j1dncja2dv760au39ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9UQb5JaIN2m6MB9oF9ixAUZsTlRdKH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174392182161-k9e9dttfeg7g5j1dncja2dv760au39ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
